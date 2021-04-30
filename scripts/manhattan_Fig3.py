@@ -15,7 +15,7 @@ mycolors = ['Red','Green','Blue','Purple']
 mycolors = mycolors + mycolors + mycolors
 
 
-result_files = ['MLM_Leaf1sigSNPCount.csv','MLM_Leaf2sigSNPCount.csv','MLM_Leaf3sigSNPCount.csv']
+result_files = ['FarmCPU_Leaf1_resamp.csv','FarmCPU_Leaf2_resamp.csv','FarmCPU_Leaf3_resamp.csv']
 fig = plt.figure(figsize=(20,15)) 
 
 plotCount = 1
