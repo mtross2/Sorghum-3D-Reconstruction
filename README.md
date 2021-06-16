@@ -2,6 +2,6 @@
 
 Implemented in the paper:
 
-  * Identifying shared and unique loci linked to the angle of individual sorghum leaves via 3D reconstruction
+  * 3D reconstruction identifies loci linked to variation in angle of individual sorghum leaves
 
 
