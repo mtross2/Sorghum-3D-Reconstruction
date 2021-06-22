@@ -1,4 +1,4 @@
-# GWAS of leaf angles derived from 3D-Reconstruction of Sorghum
+# Results and visualization for GWAS of leaf angles derived from 3D-Reconstruction of Sorghum
 
 Implemented in the paper:
 
