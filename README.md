@@ -6,10 +6,21 @@ Implemented in the paper:
 <br />
 
 <p align="center">
-<img src="./Figures/Fig_2.png"/> 
+Figure 2
 </p>
 
 <p align="center">
-<img src="./Figures/Fig_3.png"/>
+<img src="./Figures/Fig_2.png"/ width = 800> 
+</p>
+
+<br />
+<br />
+
+<p align="center">
+Figure 3
+</p>
+
+<p align="center">
+&nbsp; &nbsp; <img src="./Figures/Fig_3.png"/ width = 800>
 </p>
 
