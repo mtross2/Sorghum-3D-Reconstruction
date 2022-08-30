@@ -6,7 +6,7 @@ Implemented in the paper:
 <br />
 
 <p align="center">
-<img src="./Figures/Fig_2.png" width="500" height="300" /> 
+<img src="./Figures/Fig_2.png" width="500" height="350" /> 
 </p>
 
 <p align="center">
