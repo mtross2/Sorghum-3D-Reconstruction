@@ -6,4 +6,4 @@ Implemented in the paper:
 
 
 ![plot](https://github.com/mtross2/Sorghum-3D-Reconstruction/Figures/Fig_2.png)
-![plot](https://github.com/mtross2/Sorghum-3D-Reconstruction/Figures/Fig_3.png)
+![plot](https://github.com/mtross2/Sorghum-3D-Reconstruction/Figures/Fig_3.png )
