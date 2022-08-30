@@ -6,10 +6,10 @@ Implemented in the paper:
 <br />
 
 <p align="center">
-<img src="./Figures/Fig_2.png" width="500" height="350" /> 
+<img src="./Figures/Fig_2.png"/> 
 </p>
 
 <p align="center">
-<img src="./Figures/Fig_3.png" width="500" height="350" />
+<img src="./Figures/Fig_3.png"/>
 </p>
 
